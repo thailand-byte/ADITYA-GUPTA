@@ -1,0 +1,6 @@
+{
+  "name": "Design Portfolio Studio",
+  "description": "A showcase portfolio for design projects, deep-dive case studies, and professional experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
